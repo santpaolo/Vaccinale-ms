@@ -1,0 +1,1 @@
+<settings> <mirrors> <mirror> <id>nexus</id> <mirrorOf>*</mirrorOf> <url>https://nexus.cdp-sanita-coll.soresa.it/repository/maven-public/</url> </mirror> </mirrors> <servers> <server> <id>nexus</id> <username>${NEXUS_USER}</username> <password>${NEXUS_PASS}</password> </server> </servers> </settings>
